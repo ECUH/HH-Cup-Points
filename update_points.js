@@ -44,17 +44,17 @@ function showInfo(data) {
 
   for(line of data){
     if( ! (line.cee==="" && line.ee==="" && line.me==="")){
-      console.log(line.cee);
-      console.log(line.ee);
-      console.log(line.me);
+      // console.log(line.cee);
+      // console.log(line.ee);
+      // console.log(line.me);
       cee_total = cee_total +  parseInt(line["cee"]);
       ee_total = ee_total +  parseInt(line["ee"]);
       me_total = me_total +  parseInt(line["me"]);
     }
   }
-  console.log(cee_total);
-  console.log(me_total);
-  console.log(ee_total);
+  // console.log(cee_total);
+  // console.log(me_total);
+  // console.log(ee_total);
 
 
   document.getElementById("cee-points").innerHTML = cee_total;
