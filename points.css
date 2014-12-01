@@ -1,0 +1,49 @@
+.points-box
+{
+  width:300px;
+  border:1px;
+  font-family: "Arial";
+  text-align: center;
+  color: white;
+}
+
+div.points-box h1
+{
+  color:white;
+  font-size:20px;
+  height:80px;
+}
+
+.points-text
+{
+  font-size:85px;
+  color: white;
+}
+
+.points-label
+{
+  font-size:20px;
+}
+
+.points-table tr{
+    height:400px;
+    background-color:red;
+}
+
+#points-ee
+{
+  background-color:#326074;
+}
+
+#points-me
+{
+  background-color:#771E39;
+}
+
+#points-ce
+{
+  background-color:#CEC862;
+}
+
+
+
