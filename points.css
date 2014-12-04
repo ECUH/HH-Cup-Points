@@ -2,22 +2,24 @@
 {
   width:300px;
   border:1px;
-  font-family: "Arial";
+  /* font-family: "Arial"; */
   text-align: center;
   color: white;
+  font-family: 'Cinzel', serif;
 }
 
 div.points-box h1
 {
   color:white;
   font-size:20px;
-  height:80px;
+  height:40px;
 }
 
 .points-text
 {
-  font-size:85px;
+  font-size:110px;
   color: white;
+  font-family: 'Tahoma';
 }
 
 .points-label
