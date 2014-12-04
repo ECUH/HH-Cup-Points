@@ -30,19 +30,26 @@ div.points-box h1
     background-color:red;
 }
 
+.logo_asset{
+  max-height:60px;
+}
+
 #points-ee
 {
-  background-color:#326074;
+  background-color:#214497;
+  text-align:center;
 }
 
 #points-me
 {
-  background-color:#771E39;
+  background-color:#AE1F26;
+  text-align:center;
 }
 
 #points-ce
 {
-  background-color:#CEC862;
+  background-color:#D2AE2A;
+  text-align:center;
 }
 
 
